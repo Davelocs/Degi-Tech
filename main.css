@@ -30,7 +30,7 @@ section{
 header{
 	position: fixed;
 	width: 100%;
-	top: 0;
+	top: 30px;
 	right: 0;
 	z-index: 1000;
 	display: flex;
@@ -122,7 +122,8 @@ header{
 }
 .home-text{
 	z-index: 1000;
-	padding: 0 150px;
+	padding: 0 50px;
+	margin-top: 172px;
 }
 .home-text span{
 	color: var(--bg-color);
